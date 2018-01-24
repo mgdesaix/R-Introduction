@@ -1,9 +1,9 @@
 
 
 # R Basics
-## BIOZ 416
-## Spring 2018
-## Matt DeSaix
+*BIOZ 416*
+*Spring 2018*
+*Matt DeSaix*
 
 This is an introduction to R that was created specificially for the BIOZ 416: Ornithology Lab at Virginia Commonwealth University.  The data used in this tutorial are provided to the students but is not publicly available, yet.
 
